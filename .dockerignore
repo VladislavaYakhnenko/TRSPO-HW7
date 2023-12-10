@@ -1,0 +1,6 @@
+**/.classpath
+**/.dockerignore
+**/.git
+**/.gitignore
+**/Dockerfile*
+README.md
